@@ -1,4 +1,4 @@
-![vscode-NoraCora-Theme](assets/header.png)
+![NoraCora-Theme](assets/header.png)
 
 > Source from: https://github.com/Sathmin-Januth/NoraCora-Theme
 
