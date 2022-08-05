@@ -3,15 +3,15 @@
   "displayName": "Nora Cora",
   "description": "A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.",
   "version": "1.0.3",
-  "publisher": "teabyii",
+  "publisher": "Sathmin-Januth",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ayu-theme/vscode-ayu"
+    "url": "https://github.com/Sathmin-Januth/NoraCora-Theme"
   },
   "bugs": {
-    "url": "https://github.com/ayu-theme/vscode-ayu/issues",
-    "email": "teabyii@gmail.com"
+    "url": "https://github.com/Sathmin-Januth/NoraCora-Theme/issues",
+    "email": "sathminj1@gmail.com"
   },
   "engines": {
     "vscode": "^1.13.0"
@@ -24,46 +24,46 @@
     "theme",
     "nora"
   ],
-  "homepage": "https://github.com/ayu-theme/vscode-ayu",
+  "homepage": "https://github.com/Sathmin-Januth/NoraCora-Theme",
   "icon": "assets/logo.png",
   "contributes": {
     "themes": [
       {
         "label": "Nora Cora Dark",
         "uiTheme": "vs-dark",
-        "path": "./nora-dark.json"
+        "path": "./themes/nora-dark.json"
       },
       {
         "label": "Nora Cora Dark Bordered",
         "uiTheme": "vs-dark",
-        "path": "./nora-dark-bordered.json"
+        "path": "./themes/nora-dark-bordered.json"
       },
       {
         "label": "Nora Cora Light",
         "uiTheme": "vs",
-        "path": "./nora-light.json"
+        "path": "./themes/nora-light.json"
       },
       {
         "label": "Nora Cora Light Bordered",
         "uiTheme": "vs",
-        "path": "./nora-light-bordered.json"
+        "path": "./themes/nora-light-bordered.json"
       },
       {
         "label": "Nora Cora Mirage",
         "uiTheme": "vs-dark",
-        "path": "./nora-mirage.json"
+        "path": "./themes/nora-mirage.json"
       },
       {
         "label": "Nora Cora Mirage Bordered",
         "uiTheme": "vs-dark",
-        "path": "./nora-mirage-bordered.json"
+        "path": "./themes/nora-mirage-bordered.json"
       }
     ],
     "iconThemes": [
       {
         "id": "nora",
         "label": "Nora Cora",
-        "path": "./nora-icons.json"
+        "path": "./themes/nora-icons.json"
       }
     ]
   },
