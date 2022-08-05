@@ -1,4 +1,4 @@
-import * as nora from 'nora'
+import * as nora from 'nora-theme'
 
 export type SchemeName = 'light' | 'dark' | 'mirage'
 
