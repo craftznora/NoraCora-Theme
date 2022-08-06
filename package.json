@@ -2,7 +2,7 @@
   "name": "nora",
   "displayName": "Nora Cora",
   "description": "A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "Sathmin-Januth",
   "license": "MIT",
   "repository": {
@@ -64,7 +64,7 @@
       {
         "id": "nora",
         "label": "Nora Cora",
-        "path": "./themes/nora-icons.json"
+        "path": "./nora-icons.json"
       }
     ]
   },
