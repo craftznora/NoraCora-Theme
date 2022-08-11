@@ -4,16 +4,16 @@
       "iconPath": "./icons/file_type_default.svg"
     },
     "_folder_dark": {
-      "iconPath": "./icons/folder_dark@2x.png"
+      "iconPath": "./icons/folder@2x.svg"
     },
     "_folder_light": {
-      "iconPath": "./icons/folder_light@2x.png"
+      "iconPath": "./icons/folder@2x.svg"
     },
     "_folder_open_dark": {
-      "iconPath": "./icons/folder_opened_dark@2x.png"
+      "iconPath": "./icons/folder_opened@2x.svg"
     },
     "_folder_open_light": {
-      "iconPath": "./icons/folder_opened_light@2x.png"
+      "iconPath": "./icons/folder_opened@2x.svg"
     },
     "actionscript": {
       "iconPath": "./icons/file_type_actionscript@2x.png"
